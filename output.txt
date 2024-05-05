@@ -1,0 +1,24 @@
+++++++++++ n = 13 ++++++++++
+
+Binary:          1101
+Octal:           15
+Hexadecimal:     D
+
+Prime Factorization:   13 
+
+++++++++++ n = 65 ++++++++++
+
+Binary:          100 0001
+Octal:           101
+Hexadecimal:     41
+
+Prime Factorization:   5 13 
+
+++++++++++ n = 134 ++++++++++
+
+Binary:          1000 0110
+Octal:           206
+Hexadecimal:     86
+
+Prime Factorization:   2 67 
+
